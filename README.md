@@ -97,6 +97,7 @@ Note: Here, **AR** means **AutoRegressive**, not Augmented Reality. Currently, t
 | 🧱🪜⚙️ | Fast-dLLM v2: Efficient Block-Diffusion LLM | Chengyue Wu et al. | ICLR 2026 | [OpenReview](https://openreview.net/forum?id=1NZ3DHF9nT) |
 | 🧱🪜⚙️ | Blockwise SFT for Diffusion Language Models: Reconciling Bidirectional Attention and Autoregressive Decoding | Bowen Sun et al. | arXiv | [arXiv:2508.19529](https://arxiv.org/abs/2508.19529) |
 | 🧱📚 | Dream 7B: Diffusion Large Language Models | Jiacheng Ye et al. | arXiv | [arXiv:2508.15487](https://arxiv.org/abs/2508.15487) |
+| 🧱⚙️🧠 | Empirical Analysis of Decoding Biases in Masked Diffusion Models | Pengcheng Huang et al. | ACL 2026 | [ACL Anthology](https://aclanthology.org/2026.acl-long.311/) |
 | 🌊🧩⚙️ | Cosmos: Compressed and Smooth Latent Space for Text Diffusion Modeling | Artem Meshchaninov et al. | NeurIPS 2025 | [NeurIPS](https://papers.neurips.cc/paper_files/paper/2025/hash/1506930fb75c82246e4d8648a66e4b27-Abstract-Conference.html) |
 | 🧱👁️ | LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning | Zebin You et al. | CVPR 2026 | [arXiv:2505.16933](https://arxiv.org/abs/2505.16933) |
 | 🌊🧩🤖 | HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model | Jiaming Liu et al. | ICLR 2026 | [OpenReview](https://openreview.net/forum?id=H1KDMNOKQn) |
